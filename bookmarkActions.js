@@ -99,8 +99,7 @@ async function handleBookmarks() {
     }
   }
 }
-
-// Example usage of bookmark functionality
+// Function that adds a new bookmark to the bookmarks array
 (async () => {
   await handleBookmarks();
 })();
