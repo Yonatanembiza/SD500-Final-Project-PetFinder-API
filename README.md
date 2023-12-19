@@ -42,6 +42,8 @@ Future Enhancements
 •	Implement more features from the Petfinder API (e.g., filtering by location).
 Contributors
 •	[Yonatan Embiza]
+•	[Eleni Berhe Araya]
+
 
 
 
